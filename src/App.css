@@ -1,11 +1,4 @@
-/*--
-	Author: W3layouts
-	Author URL: http://w3layouts.com
-	License: Creative Commons Attribution 3.0 Unported
-	License URL: http://creativecommons.org/licenses/by/3.0/
---*/
 
-/*-- Reset Code --*/
 
 html,
 body,
@@ -193,7 +186,7 @@ img {
 /*-- Index-Page-Styling --*/
 
 body {
-  background: url("./images/background.jpg");
+  background: url("./images/background1.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
@@ -234,7 +227,7 @@ h1 {
   width: 60%;
   height: 100%;
   float: left;
-  background: url("./images/city.jpg");
+  background: url("./images/background2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   -webkit-background-size: cover;
